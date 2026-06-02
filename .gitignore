@@ -1,13 +1,6 @@
-# Ignore raw and processed data
 data/raw/*
 data/processed/*
-
-# Ignore Python cache
 __pycache__/
 *.pyc
-
-# Ignore Jupyter checkpoints
 .ipynb_checkpoints/
-
-# Ignore virtual environment
 .venv/
